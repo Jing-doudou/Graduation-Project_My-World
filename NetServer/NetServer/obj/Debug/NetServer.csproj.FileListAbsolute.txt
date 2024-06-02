@@ -1,0 +1,9 @@
+C:\C#File\SokcetTest\NetServer\NetServer\bin\Debug\NetServer.exe.config
+C:\C#File\SokcetTest\NetServer\NetServer\bin\Debug\NetServer.exe
+C:\C#File\SokcetTest\NetServer\NetServer\bin\Debug\NetServer.pdb
+C:\C#File\SokcetTest\NetServer\NetServer\obj\Debug\NetServer.csproj.AssemblyReference.cache
+C:\C#File\SokcetTest\NetServer\NetServer\obj\Debug\NetServer.csproj.CoreCompileInputs.cache
+C:\C#File\SokcetTest\NetServer\NetServer\obj\Debug\NetServer.exe
+C:\C#File\SokcetTest\NetServer\NetServer\obj\Debug\NetServer.pdb
+C:\C#File\SokcetTest\NetServer\NetServer\bin\Debug\MySql.Data.dll
+C:\C#File\SokcetTest\NetServer\NetServer\obj\Debug\NetServer.csproj.CopyComplete
